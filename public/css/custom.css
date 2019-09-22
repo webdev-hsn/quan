@@ -1,0 +1,25 @@
+.best-answer:hover {
+    color: green !important;
+}
+.accepted{
+    color: green !important;
+}
+
+.favourite:hover {
+    color : rgba(255, 0, 0, 0.808) !important;
+}
+
+.fa-thumbs-down:hover{
+    color: green !important;
+}
+
+.fa-thumbs-up:hover{
+    color: green !important;
+}
+
+.favorited{
+    color : rgba(255, 0, 0, 0.808) !important;
+}
+.liked{
+    color: rgb(255, 208, 0) !important;
+}
